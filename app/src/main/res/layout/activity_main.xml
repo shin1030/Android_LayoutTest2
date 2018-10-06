@@ -55,6 +55,6 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/top"
         android:layout_above="@+id/fun"
-        android:background="#ff2"
+        android:background="#ff6"
         />
 </RelativeLayout>
